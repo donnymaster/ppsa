@@ -1,0 +1,43 @@
+.loader, .loader:after
+    border-radius: 50%
+    width: 10em
+    height: 10em
+
+.loader
+    margin: 60px auto
+    font-size: 10px
+    position: relative
+    text-indent: -9999em
+    border-top: 1.1em solid rgb(238 22 31)
+    border-right: 1.1em solid rgb(141 195 62)
+    border-bottom: 1.1em solid rgb(251 243 84)
+    border-left: 1.1em solid #2975b7
+    -webkit-transform: translateZ(0)
+    -ms-transform: translateZ(0)
+    transform: translateZ(0)
+    -webkit-animation: load8 1.1s infinite linear
+    animation: load8 1.1s infinite linear
+    z-index: 999999
+
+@-webkit-keyframes load8
+    0%
+    -webkit-transform: rotate(0deg)
+    transform: rotate(0deg)
+
+    100%
+    -webkit-transform: rotate(360deg)
+    transform: rotate(360deg)
+
+@keyframes load8
+    0%
+        -webkit-transform: rotate(0deg)
+        transform: rotate(0deg)
+    100%
+        -webkit-transform: rotate(360deg)
+        transform: rotate(360deg)
+
+.fetch-wrapped
+    position: absolute
+    width: 100%
+    height: 100%
+    display: none

@@ -1,0 +1,842 @@
+<item>абрикос<item>
+<item>авокадо<item>
+<item>алича<item>
+<item>ананас<item>
+<item>анчоуси<item>
+<item>апельсин<item>
+<item>арахіс<item>
+<item>кавун<item>
+<item>асорті м\'ясне<item>
+<item>асорті овочеве<item>
+<item>асорті фруктове<item>
+<item>асорті ягідне<item>
+<item>багет<item>
+<item>базилік<item>
+<item>баклажан<item>
+<item>банан<item>
+<item>барабулька<item>
+<item>баранина<item>
+<item>батон<item>
+<item>батончик шоколадний<item>
+<item>стегно куряче<item>
+<item>безе<item>
+<item>бекон<item>
+<item>білок яєчний<item>
+<item>берегомет<item>
+<item>бешамель<item>
+<item>біодобавка<item>
+<item>бісквіт<item>
+<item>боби<item>
+<item>брокколі<item>
+<item>брусниця<item>
+<item>бринза<item>
+<item>булка<item>
+<item>булочка<item>
+<item>бульйон<item>
+<item>валеріана<item>
+<item>ванілін<item>
+<item>ваніль<item>
+<item>ванільна есенція<item>
+<item>ванільний цукор<item>
+<item>ванільний стручок<item>
+<item>варення<item>
+<item>васабі<item>
+<item>вафельні трубочки<item>
+<item>вафлі<item>
+<item>вермішель<item>
+<item>шинка<item>
+<item>гливи<item>
+<item>збиті вершки<item>
+<item>вино біле напівсолодке<item>
+<item>вино біле напівсухе<item>
+<item>вино біле солодке<item>
+<item>вино біле сухе<item>
+<item>вино десертне<item>
+<item>вино ігристе сухе<item>
+<item>вино червоне напівсолодке<item>
+<item>вино червоне напівсухе<item>
+<item>вино червоне солодке<item>
+<item>вино червоне сухе<item>
+<item>вино кріплене<item>
+<item>вино рисове<item>
+<item>вино рожеве напівсухе<item>
+<item>вино рожеве сухе<item>
+<item>виноград<item>
+<item>віскі<item>
+<item>вишня<item>
+<item>вода<item>
+<item>вода газована<item>
+<item>вода мінеральна<item>
+<item>вода рожева<item>
+<item>вода квіткова апельсинова<item>
+<item>водорості<item>
+<item>гвоздика<item>
+<item>глазур<item>
+<item>гліцерин харчової<item>
+<item>глутамат натрію<item>
+<item>глюкоза<item>
+<item>глютен<item>
+<item>яловичина<item>
+<item>гомілка куряча<item>
+<item>горбуша<item>
+<item>горох<item>
+<item>горошок зелений<item>
+<item>гірчиця<item>
+<item>готова начинка<item>
+<item>гранат<item>
+<item>гранола<item>
+<item>гребінець<item>
+<item>грейпфрут<item>
+<item>грінки<item>
+<item>гриб морської<item>
+<item>гриб чайний<item>
+<item>гриби<item>
+<item>гриби консервовані<item>
+<item>грудинка<item>
+<item>грудка<item>
+<item>грудка індички<item>
+<item>грудка куряча<item>
+<item>грудка качина<item>
+<item>груша<item>
+<item>гумі<item>
+<item>гусь<item>
+<item>джем<item>
+<item>джем абрикосовий<item>
+<item>джем апельсиновий<item>
+<item>дичина<item>
+<item>драже<item>
+<item>дріжджі<item>
+<item>материнка<item>
+<item>диня<item>
+<item>ожина<item>
+<item>желатин<item>
+<item>желе<item>
+<item>желирующая суміш<item>
+<item>жовток яєчний<item>
+<item>жир<item>
+<item>макуха овочевий<item>
+<item>макуха фруктовий<item>
+<item>загущувач для вершків<item>
+<item>заячина<item>
+<item>закваска<item>
+<item>замінник цукру<item>
+<item>замінник сухого молока<item>
+<item>заправка<item>
+<item>звіробій<item>
+<item>зелень<item>
+<item>суниця<item>
+<item>зерно<item>
+<item>зефір<item>
+<item>зіра<item>
+<item>ізюм<item>
+<item>ікра червона<item>
+<item>ікра минтаю<item>
+<item>ікра овочева<item>
+<item>ікра рибна<item>
+<item>ікра чорна<item>
+<item>імбир<item>
+<item>індичка<item>
+<item>інжир<item>
+<item>іриски<item>
+<item>йогурт<item>
+<item>кабачок<item>
+<item>какао згущене<item>
+<item>какао терте<item>
+<item>какао-боби<item>
+<item>какао-масло<item>
+<item>какао-напій<item>
+<item>какао-порошок<item>
+<item>кактус<item>
+<item>калина<item>
+<item>калінджі<item>
+<item>кальвадос<item>
+<item>кальмар<item>
+<item>камбала<item>
+<item>кампари<item>
+<item>каннеллоні<item>
+<item>каперси<item>
+<item>капуста білокачанна<item>
+<item>капуста брюссельська<item>
+<item>квашена капуста<item>
+<item>капуста китайська<item>
+<item>капуста кольрабі<item>
+<item>капуста червонокачанна<item>
+<item>капуста кучерява<item>
+<item>капуста морська<item>
+<item>капуста пекінська<item>
+<item>капуста савойська<item>
+<item>цвітна капуста<item>
+<item>капуста японська<item>
+<item>капучино<item>
+<item>каракатиця<item>
+<item>карамболь<item>
+<item>карамель<item>
+<item>карась<item>
+<item>карбонад<item>
+<item>кардамон<item>
+<item>каркаде<item>
+<item>короп<item>
+<item>каррі<item>
+<item>картопля<item>
+<item>катик<item>
+<item>каша<item>
+<item>каштан<item>
+<item>квас<item>
+<item>кекс ванільний<item>
+<item>кета<item>
+<item>кетчуп<item>
+<item>кефір<item>
+<item>ківі<item>
+<item>кижуч<item>
+<item>кизил<item>
+<item>кілька<item>
+<item>кінза<item>
+<item>кіноа<item>
+<item>кисіль<item>
+<item>кислота аскорбінова<item>
+<item>кислота лимонна<item>
+<item>кишки<item>
+<item>клементін<item>
+<item>клітковина<item>
+<item>полуниця<item>
+<item>журавлина<item>
+<item>кляр<item>
+<item>шкіра куряча<item>
+<item>шкіра рибна<item>
+<item>кокос<item>
+<item>коктейль морський<item>
+<item>кола<item>
+<item>ковбаса<item>
+<item>ковбаски<item>
+<item>компот<item>
+<item>конгріо<item>
+<item>кондитерський виріб<item>
+<item>конкільє<item>
+<item>консерви рибні<item>
+<item>цукерки<item>
+<item>конфітюр<item>
+<item>коньяк<item>
+<item>кора дуба<item>
+<item>корейка<item>
+<item>коріння<item>
+<item>корж<item>
+<item>коріандр<item>
+<item>кориця<item>
+<item>корнішони<item>
+<item>корюшка<item>
+<item>котлета<item>
+<item>кава натуральна<item>
+<item>кава розчинна<item>
+<item>краб<item>
+<item>крабове м\'ясо<item>
+<item>крабові палички<item>
+<item>кропива<item>
+<item>барвник харчової<item>
+<item>крохмаль<item>
+<item>крохмаль картопляний<item>
+<item>крохмаль кукурудзяний<item>
+<item>креветки<item>
+<item>крекер<item>
+<item>крем<item>
+<item>крем фреш<item>
+<item>кролик<item>
+<item>крихітка вафельная<item>
+<item>крихітка хлібна<item>
+<item>круасан<item>
+<item>гречана крупа<item>
+<item>крупа кукурудзяна<item>
+<item>крупа манна<item>
+<item>крупа вівсяна<item>
+<item>крупа перлова<item>
+<item>крупи пшеничні<item>
+<item>крупа ячна<item>
+<item>агрус<item>
+<item>крила курячі<item>
+<item>кубик бульйонний<item>
+<item>кукурудза<item>
+<item>кукурудзяні палички<item>
+<item>кумин<item>
+<item>кумкват<item>
+<item>кунжут<item>
+<item>курага<item>
+<item>курка<item>
+<item>куркума<item>
+<item>кус-кус<item>
+<item>кероб<item>
+<item>лаванда<item>
+<item>лаваш<item>
+<item>лазанья<item>
+<item>лайм<item>
+<item>лангуста<item>
+<item>локшина<item>
+<item>легке<item>
+<item>легке яловиче<item>
+<item>лід<item>
+<item>льон<item>
+<item>пелюстки<item>
+<item>коржик<item>
+<item>лечо<item>
+<item>лівер<item>
+<item>лікер<item>
+<item>лимон<item>
+<item>лимонад<item>
+<item>лимонна трава<item>
+<item>лимонник<item>
+<item>ліпаза<item>
+<item>лист виноградний<item>
+<item>лист вишневий<item>
+<item>лист деревне<item>
+<item>лист капустяний<item>
+<item>лист лавровий<item>
+<item>лист малиновий<item>
+<item>лист смородиновий<item>
+<item>лист квітковий<item>
+<item>листя салату<item>
+<item>лобстер<item>
+<item>лосось<item>
+<item>лук білий<item>
+<item>цибуля зелена<item>
+<item>лук червоний<item>
+<item>цибуля ріпчаста<item>
+<item>зелена цибуля<item>
+<item>лук-шалот<item>
+<item>любисток<item>
+<item>жаб\'ячі лапки<item>
+<item>майонез<item>
+<item>майоран<item>
+<item>мак<item>
+<item>макаронні вироби<item>
+<item>малина<item>
+<item>манго<item>
+<item>мангостин<item>
+<item>мандарин<item>
+<item>маракуйя<item>
+<item>маргарин<item>
+<item>маринад<item>
+<item>мармелад<item>
+<item>мартіні<item>
+<item>марципан<item>
+<item>маршмеллоу<item>
+<item>маскарпоне<item>
+<item>маслини<item>
+<item>олія арахісова<item>
+<item>масло виноградної кісточки<item>
+<item>масло гірчичне<item>
+<item>масло волоського горіха<item>
+<item>масло кедрового горіха<item>
+<item>масло кокосове<item>
+<item>олія кукурудзяна<item>
+<item>олія кунжутна<item>
+<item>олія лляна<item>
+<item>масло мигдальне<item>
+<item>масло м\'ятна<item>
+<item>масло оливкове<item>
+<item>масло пальмове<item>
+<item>олія соняшникова<item>
+<item>олія рапсова<item>
+<item>масло рослинне<item>
+<item>вершкове масло<item>
+<item>олія соєва<item>
+<item>масло топлене<item>
+<item>олія гарбузова<item>
+<item>масло бавовняне<item>
+<item>масло часникове<item>
+<item>масло шоколадне<item>
+<item>маца<item>
+<item>мацоні<item>
+<item>маш<item>
+<item>мед<item>
+<item>меланж<item>
+<item>мелісса<item>
+<item>мідії<item>
+<item>мигдаль<item>
+<item>мінеола<item>
+<item>минтай<item>
+<item>місо-паста<item>
+<item>ялівець<item>
+<item>мізки яловичі<item>
+<item>мойва<item>
+<item>молюски<item>
+<item>молочко рибні<item>
+<item>молоко<item>
+<item>молоко кедрова<item>
+<item>молоко кокосове<item>
+<item>молоко концентроване<item>
+<item>молоко мигдальне<item>
+<item>молоко згущене<item>
+<item>молоко соєве<item>
+<item>молоко сухе<item>
+<item>молоко пряжене<item>
+<item>момордика<item>
+<item>морепродукти<item>
+<item>морква<item>
+<item>морозиво<item>
+<item>морошка<item>
+<item>моцарелла<item>
+<item>борошно амарантового<item>
+<item>мука млина<item>
+<item>борошно гороху<item>
+<item>борошно гречане<item>
+<item>борошно кокосова<item>
+<item>борошно конопляна<item>
+<item>борошно кукурудзяне<item>
+<item>борошно кунжутове<item>
+<item>борошно лляне<item>
+<item>борошно мигдальна<item>
+<item>борошно нутовая<item>
+<item>борошно вівсяне<item>
+<item>борошно полб\'яною<item>
+<item>борошно пшеничне<item>
+<item>борошно житнє<item>
+<item>борошно рисове<item>
+<item>борошно сої<item>
+<item>борошно спеціальна<item>
+<item>борошно цільнозернове<item>
+<item>борошно Черемхова<item>
+<item>борошно ячмінне<item>
+<item>мус<item>
+<item>мус яблучний<item>
+<item>мюслі<item>
+<item>м\'ясо<item>
+<item>м\'ясо соєве<item>
+<item>м\'ята<item>
+<item>минь<item>
+<item>напій<item>
+<item>напій кисломолочний<item>
+<item>напій молочний<item>
+<item>напій вівсяний<item>
+<item>наршараб<item>
+<item>нектар<item>
+<item>нектарин<item>
+<item>нога бараняча<item>
+<item>норі<item>
+<item>нуга<item>
+<item>нут<item>
+<item>нутелла<item>
+<item>обліпиха<item>
+<item>овес<item>
+<item>овочі<item>
+<item>огірок<item>
+<item>огірок маринований<item>
+<item>огірок солоний<item>
+<item>окара<item>
+<item>окіст<item>
+<item>стегенце курячий<item>
+<item>окунь<item>
+<item>окунь морський<item>
+<item>оладки<item>
+<item>оленина<item>
+<item>оливки зелені<item>
+<item>оливки чорні<item>
+<item>вільховий дим<item>
+<item>опара<item>
+<item>опеньки<item>
+<item>орегано<item>
+<item>горіх макадамія<item>
+<item>горіх мускатний<item>
+<item>горіхи<item>
+<item>горіхи бразильські<item>
+<item>горіхи волоські<item>
+<item>горіхи кедрові<item>
+<item>горіхи кешью<item>
+<item>горіхи лісові<item>
+<item>горіхи пекан<item>
+<item>восьминіг<item>
+<item>пажитник<item>
+<item>палтус<item>
+<item>пангасіус<item>
+<item>панир<item>
+<item>папайя<item>
+<item>папороть<item>
+<item>паприка солодка<item>
+<item>пармезан<item>
+<item>паста<item>
+<item>паста арахісова<item>
+<item>паста каррі<item>
+<item>паста кунжутове<item>
+<item>паста горіхова<item>
+<item>паста перцева<item>
+<item>паста цукрова<item>
+<item>тахінна<item>
+<item>паста часниково-імбирна<item>
+<item>паста шоколадна<item>
+<item>пастернак<item>
+<item>пастила<item>
+<item>патисон<item>
+<item>патока<item>
+<item>маслянка<item>
+<item>паштет<item>
+<item>пектин<item>
+<item>пеленгас<item>
+<item>перепілка<item>
+<item>перець білий<item>
+<item>перець болгарський<item>
+<item>перець духмяний<item>
+<item>перець зелений<item>
+<item>перець Кайєн<item>
+<item>перець червоний пекучий<item>
+<item>перець лимонний<item>
+<item>перець пепероні<item>
+<item>перець рожевий<item>
+<item>перець солодкий<item>
+<item>перець солодкий жовтий<item>
+<item>перець солодкий зелений<item>
+<item>перець солодкий червоний<item>
+<item>перець сичуаньский<item>
+<item>перець чорний<item>
+<item>перець чилі<item>
+<item>перець ямайський<item>
+<item>персик<item>
+<item>песто<item>
+<item>петрушка<item>
+<item>печінка бараняча<item>
+<item>печінка яловича<item>
+<item>печінка гусяча<item>
+<item>печінка індичих<item>
+<item>печінка кролика<item>
+<item>печінка куряча<item>
+<item>печінка минтая<item>
+<item>печінка свиняча<item>
+<item>печінку тріски<item>
+<item>печінка качина<item>
+<item>печиво<item>
+<item>піта<item>
+<item>пітахайя<item>
+<item>харчова добавка<item>
+<item>пагони<item>
+<item>повидло<item>
+<item>полба<item>
+<item>напівфабрикати<item>
+<item>помело<item>
+<item>помаранча<item>
+<item>помідор<item>
+<item>помідор маринований<item>
+<item>помідор солоний<item>
+<item>помідори черрі<item>
+<item>попкорн<item>
+<item>порошок гірчичний<item>
+<item>порошок грибний<item>
+<item>порошок цибульний<item>
+<item>порошок пекарський<item>
+<item>порошок томатний<item>
+<item>порошок часниковий<item>
+<item>притулок<item>
+<item>посипання кондитерська<item>
+<item>тельбухи<item>
+<item>нирки<item>
+<item>праліне<item>
+<item>пресерви<item>
+<item>приправа<item>
+<item>кисле молоко<item>
+<item>профітролі<item>
+<item>пряник<item>
+<item>прянощі<item>
+<item>псілліум<item>
+<item>пудинг<item>
+<item>пудинг ванільний<item>
+<item>пудинг карамельний<item>
+<item>путасу<item>
+<item>пшениця<item>
+<item>пшоно<item>
+<item>пилок квітковий<item>
+<item>пюре картопляне<item>
+<item>пюре овочеве<item>
+<item>пюре томатне<item>
+<item>пюре фруктове<item>
+<item>пюре ягідне<item>
+<item>равіолі<item>
+<item>розпушувач тіста<item>
+<item>раки<item>
+<item>ракові шийки<item>
+<item>мушлі<item>
+<item>рамбутан<item>
+<item>рапани<item>
+<item>розсіл<item>
+<item>рахат лукум<item>
+<item>ребра<item>
+<item>ребра яловичі<item>
+<item>ребра свинячі<item>
+<item>ревінь<item>
+<item>редис<item>
+<item>редька<item>
+<item>рікотта<item>
+<item>мал<item>
+<item>рис повітряний<item>
+<item>рис дикий<item>
+<item>рис коричневий<item>
+<item>рисовий папір<item>
+<item>ріжки<item>
+<item>розмарин<item>
+<item>ром<item>
+<item>паростки<item>
+<item>рубець яловичий<item>
+<item>рукола<item>
+<item>рулька<item>
+<item>риба<item>
+<item>горобина червона<item>
+<item>горобина чорноплідна<item>
+<item>рябчик<item>
+<item>ряжанка<item>
+<item>саго<item>
+<item>сайда<item>
+<item>сайра<item>
+<item>саке<item>
+<item>салака<item>
+<item>сало<item>
+<item>салямі<item>
+<item>сарделька<item>
+<item>цукор<item>
+<item>цукор гранульований<item>
+<item>цукор коричневий<item>
+<item>цукор кусковий<item>
+<item>цукор тростинний<item>
+<item>цукор-рафінад<item>
+<item>цукрова пудра<item>
+<item>буряк<item>
+<item>буряк листова<item>
+<item>свинина<item>
+<item>селера кореневої<item>
+<item>селера листова<item>
+<item>селера черешкова<item>
+<item>оселедець<item>
+<item>сьомга<item>
+<item>насіння<item>
+<item>насіння гірчиці<item>
+<item>насіння льону<item>
+<item>насіння кропу<item>
+<item>насіння<item>
+<item>насіння соняшника<item>
+<item>насіння гарбузове<item>
+<item>сердечка курячі<item>
+<item>серце<item>
+<item>сібас<item>
+<item>сидр<item>
+<item>сироп<item>
+<item>сироп абрикосовий<item>
+<item>сироп алкогольний<item>
+<item>сироп ананасовий<item>
+<item>сироп ванільний<item>
+<item>сироп глюкози<item>
+<item>сироп інвертний<item>
+<item>сироп кленовий<item>
+<item>сироп полуничний<item>
+<item>сироп журавлинний<item>
+<item>сироп кокосовий<item>
+<item>сироп кукурудзяний<item>
+<item>сироп лимонний<item>
+<item>сироп мигдальний<item>
+<item>сироп м\'ятний<item>
+<item>сироп персиковий<item>
+<item>сироп цукровий<item>
+<item>сироп смородиновий<item>
+<item>сироп фруктовий<item>
+<item>сироп чорничний<item>
+<item>сироп шоколадний<item>
+<item>сироп ягідний<item>
+<item>скумбрія<item>
+<item>слива<item>
+<item>вершки<item>
+<item>вершки кокосові<item>
+<item>смалець<item>
+<item>суміш молочна<item>
+<item>суміш перців<item>
+<item>суміш порошкова<item>
+<item>суміш спецій<item>
+<item>сметана<item>
+<item>смородина біла<item>
+<item>смородина червона<item>
+<item>смородина чорна<item>
+<item>сода<item>
+<item>сода гашене оцтом<item>
+<item>соєві паростки<item>
+<item>соєвий соус<item>
+<item>сік<item>
+<item>сік апельсиновий<item>
+<item>сік березовий<item>
+<item>сік гранатовий<item>
+<item>сік лимонний<item>
+<item>сік мандариновий<item>
+<item>сік морквяний<item>
+<item>сік свіжовичавлений<item>
+<item>сік томатний<item>
+<item>яблучний сік<item>
+<item>сік ягідний<item>
+<item>солод<item>
+<item>соломка<item>
+<item>сіль<item>
+<item>сіль нітритний<item>
+<item>сосиска<item>
+<item>соус<item>
+<item>соус майонезний<item>
+<item>соус томатний<item>
+<item>соус устричний<item>
+<item>соус фруктовий<item>
+<item>соус ягідний<item>
+<item>соус-маринад<item>
+<item>соя<item>
+<item>спагеті<item>
+<item>спаржа<item>
+<item>спеції<item>
+<item>спирт<item>
+<item>ставрида<item>
+<item>стевія<item>
+<item>стрілки часникові<item>
+<item>стружка кокосова<item>
+<item>стружка шоколадна<item>
+<item>субпродукти<item>
+<item>суповий набір<item>
+<item>сусло квасне<item>
+<item>сухарі<item>
+<item>сухарі паніровочні<item>
+<item>сухарики<item>
+<item>сухий сніданок<item>
+<item>сухофрукти<item>
+<item>сушки<item>
+<item>сироватка<item>
+<item>сир адигейський<item>
+<item>сир голландський<item>
+<item>сир блакитний<item>
+<item>сир козячий<item>
+<item>сир ковбасний<item>
+<item>сир копчений<item>
+<item>сир м\'який<item>
+<item>сир плавлений<item>
+<item>сир напівтвердий<item>
+<item>сир вершковий<item>
+<item>сир сулугуні<item>
+<item>сир твердий<item>
+<item>сир сирний<item>
+<item>сирок плавлений<item>
+<item>табаско<item>
+<item>тандурі масала<item>
+<item>тапіока<item>
+<item>тарталетка<item>
+<item>тартар<item>
+<item>тархун<item>
+<item>сир<item>
+<item>сиркова маса<item>
+<item>текіла<item>
+<item>телятина<item>
+<item>тісто дріжджове<item>
+<item>тісто заварне<item>
+<item>тісто пельменное<item>
+<item>тісто пісочне<item>
+<item>тісто прісне<item>
+<item>тісто листкове<item>
+<item>тісто листкове бездріжджове<item>
+<item>тісто листкове дріжджове<item>
+<item>тісто філо<item>
+<item>тефтелі<item>
+<item>тілапія<item>
+<item>чебрець<item>
+<item>кмин<item>
+<item>томатна паста<item>
+<item>томати у власному соку<item>
+<item>томати в\'ялені<item>
+<item>томати пасеровані<item>
+<item>томати протерті<item>
+<item>томати сушені<item>
+<item>тости<item>
+<item>тофу<item>
+<item>тріска<item>
+<item>трюфель<item>
+<item>тунець<item>
+<item>тушонка<item>
+<item>гарбуз<item>
+<item>вугор<item>
+<item>удон<item>
+<item>кріп<item>
+<item>оцет<item>
+<item>оцтова есенція<item>
+<item>равлики<item>
+<item>унаби<item>
+<item>урбеч<item>
+<item>урюк<item>
+<item>устриці<item>
+<item>качка<item>
+<item>фарш індюшачий<item>
+<item>фарш курячий<item>
+<item>фарш м\'ясний<item>
+<item>фарш рибний<item>
+<item>фарш соєвий<item>
+<item>квасоля<item>
+<item>квасоля консервована<item>
+<item>квасоля стручкова<item>
+<item>філе<item>
+<item>філе куряче<item>
+<item>філе рибне<item>
+<item>фінік<item>
+<item>фісташки<item>
+<item>форель<item>
+<item>фрикадельки<item>
+<item>фритюр<item>
+<item>фруктоза<item>
+<item>фрукти<item>
+<item>фундук<item>
+<item>халва<item>
+<item>халва соняшникова<item>
+<item>хамон<item>
+<item>хамса<item>
+<item>хвіст<item>
+<item>хвоя<item>
+<item>херес<item>
+<item>хліб<item>
+<item>хлібобулочні вироби<item>
+<item>хлібці<item>
+<item>пластівці горохові<item>
+<item>пластівці гречані<item>
+<item>пластівці злакові<item>
+<item>пластівці картопляні<item>
+<item>пластівці кукурудзяні<item>
+<item>пластівці вівсяні<item>
+<item>пластівці панірувальні<item>
+<item>пластівці пшоняні<item>
+<item>пластівці рисові<item>
+<item>пластівці шоколадні<item>
+<item>пластівці ячмінні<item>
+<item>хрін<item>
+<item>хурма<item>
+<item>квітки<item>
+<item>цедра апельсина<item>
+<item>цедра грейпфрута<item>
+<item>цедра лайма<item>
+<item>цедра лимону<item>
+<item>цедра мандарина<item>
+<item>цесарка<item>
+<item>цикорій<item>
+<item>цукати<item>
+<item>цукіні<item>
+<item>курча<item>
+<item>чебрець<item>
+<item>чай білий<item>
+<item>чай у пакетиках<item>
+<item>чай зелений<item>
+<item>чай червоний<item>
+<item>чай чорний<item>
+<item>черемуха<item>
+<item>черемша<item>
+<item>черешня<item>
+<item>чорниця<item>
+<item>чорнило каракатиці<item>
+<item>чорнослив<item>
+<item>часник<item>
+<item>сочевиця<item>
+<item>шавлія<item>
+<item>печериці<item>
+<item>шафран<item>
+<item>шовковиця<item>
+<item>лушпиння луковая<item>
+<item>шипшина<item>
+<item>шишки соснові<item>
+<item>шоколад білий<item>
+<item>шоколад молочний<item>
+<item>шоколад темний<item>
+<item>шпинат<item>
+<item>щавель<item>
+<item>щука<item>
+<item>есенція<item>
+<item>яблуко<item>
+<item>Ягода<item>
+<item>язик яловичий<item>
+<item>куряче яйце<item>
+<item>яйце перепелине<item>
